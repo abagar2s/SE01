@@ -2,7 +2,7 @@
 public class TabelleImpl implements Intertabelle {
 	
 	public TabelleImpl() {
-		
+	
 	}
 
 	@Override
