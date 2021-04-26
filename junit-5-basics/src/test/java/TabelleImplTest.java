@@ -47,7 +47,7 @@ class TabelleImplTest {
 		//char[][] output = {{'F','B','A','C','D'}, {'F','A','B','C','D'},{'A','B','F','C','D'},{'A','F','B','C','D'},{'B','A','F','C','D'}, {'B','F','A','C','D'}};
 		String[] output1 = {a,b,c,d,e,f};
 		for (String hs : output1) {
-			
+		//okkkkkkkkkkkkkkkkkkkkh	
 		//boolean contains = Arrays.contains(output1, a);
 		
 		assertTrue(Arrays.asList(output1).contains(hs));
